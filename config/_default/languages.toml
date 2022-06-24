@@ -1,0 +1,14 @@
+[en]
+title = "Madhushan Ramalingam"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+
+#[ar]
+#title = "மதுஷன் ராமலிங்கம்"
+#description = "أنا أعمل كمطورة ويب في شركة س"
+#contentDir = "content/tamil" 
+#weight = 2
+#LanguageDirection = "ltr" 
+#LanguageName = "TA"
