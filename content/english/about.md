@@ -24,4 +24,4 @@ Websites built with Hugo are extremely fast, secure and can be deployed anywhere
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
-<iframe src="./Madhushan_SoftwareEngineeringResume.pdf" height="500px"></iframe>
+<iframe src="/Madhushan_SoftwareEngineeringResume.pdf" height="1100px" width="100%"></iframe>
