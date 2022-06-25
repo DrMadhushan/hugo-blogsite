@@ -1,52 +1,17 @@
 ---
-title: 'The Notice Shortcode'
-date: 2022-03-18T21:47:41+00:00
-draft: true
+title: 'பிரான்சிய புரட்சி'
+author: Madhushan
+date: 2022-06-25
+draft: false
 tags:
-  - demo
-  - shortcode
-thumbnail: "images/landscape.jpg"
+    - Poem
+    - தமிழ்
+thumbnail: "https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Jacques_Bertaux_-_Prise_du_palais_des_Tuileries_-_1793.jpg"
 ---
 
-The notice shortcode supports three different types of disclaimers. These are as following:
+An intellectual poem in tamil tells about the history of French revolution in 1789
 
-
-## Info Notice
-
-```
-{{%/* notice info */%}}
-Lorem Impsum..
-{{%/* /notice */%}}
-```
-
-{{< notice info >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-{{< /notice >}}
-
-## Update Notice
-
-```
-{{%/* notice update */%}}
-Lorem Impsum..
-{{%/* /notice */%}}
-```
-
-{{< notice update >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-{{< /notice >}}
-
-## Warning Notice
-
-```
-{{%/* notice warning */%}}
-Lorem Impsum..
-{{%/* /notice */%}}
-```
-
-{{< notice warning >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-{{< /notice >}}
-
+---------
 >1789 இல் நடந்தது பிரான்சியப் புரட்சி <br>
 அங்கு நிலவியது கடுமையான வறட்சி <br>
 14 ஆம் லூயி காலத்தில் சிறந்த ஆட்சி முறை <br>
@@ -81,3 +46,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 கவிழ்ந்தது அரசனின் ஆட்சி ஆசனம் <br>
 யாப்புக்கள் தோன்ற உருவானது வழி <br>
 பிரான்ஸில் பரவியது சுதந்திர ஒளி
+
+    Copyrights (c) reserved

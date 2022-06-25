@@ -1,27 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Madhushan, A Sri Lankan based engineering individual who loves business picture of his work"
+date = "2022-06-24"
+aliases = ["about-me", "about-madhu", "contact"]
+author = "Madhushan Ramalingam"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+>Life sometimes gives you the best options even though you don't expect them. Not always, but try to guide yourself in those best options without compremising your passion and happiness.
 
-Hugo makes use of a variety of open source projects including:
+I am a ready to face failure, eager to learn computer engineering undergraduate. I prefer good work over smart work and hard work for a sustainable success. It makes me a good long-term planner. Fun and comedy drives me but am serious at work.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+> ```Python``` 
+```Javascript``` 
+```java``` ```science``` ```critical-talk``` ```flutter``` ```agile-development```
+```teamwork``` ```react``` ```Django```
+```web development``` ```poem``` ```problem solving``` ```sustainability```
+```app development``` ```story writing``` ```MySQL``` ```SEO``` ```critical thinking```
+```java script``` ```business```
 
 <iframe src="/Madhushan_SoftwareEngineeringResume.pdf" height="1100px" width="100%"></iframe>
