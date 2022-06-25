@@ -48,7 +48,8 @@
   url = "/contact/"
 
   [[footer]]
-  name = ""
+  name = "Resume"
   weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  identifier = "resume"
+  url = "/resume/Madhushan_SoftwareEngineeringResume.pdf"
+  

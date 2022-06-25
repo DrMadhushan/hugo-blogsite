@@ -5,7 +5,7 @@ draft: false
 tags:
   - demo
   - shortcode
-thumbnail: "images/profile.png"
+thumbnail: "images/landscape.jpg"
 ---
 
 The notice shortcode supports three different types of disclaimers. These are as following:
