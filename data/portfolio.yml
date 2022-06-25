@@ -1,56 +1,69 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Software Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: Smart Inventory System
+        image: "/images/portfolio/code.jpg"
+        link: https://github.com/cepdnaclk/e17-3yp-maker-mate
+        linktext: "Visit project repo"
+        description: "Maker Mate is a system which assits the makers in computer engineering department. It consists an information console, pickup locker and an inventory management system.The console shows the details about the tools and equipments in the labrotary and also the web version can be accessed from anywhere."
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
+          - Laravel
+          - Electron
+          - Requirements Engineering
+        status: "In progress"
+        start: "2021"
+        end: "2022"
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
+          - Madhushan
+          - Thanujan
+          - Thilini
+      - name: Analytical Software for Next Generation Skim Sequencing
+        image: "/images/portfolio/code.jpg"
+        link: https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis
+        description: "While DNA sequencing is an integral part of genetics research, there is a significant lack of fully-functional tools that provide easy access to DNA sequencing in a cost-effective manner. Our goal is to minimize the inefficiencies faced by professionals who conduct NGS for Chloroplast, Mitochondria and plant ITS regions by developing a complete solution that incorporates existing DNA sequencing pipelines into a single environment that is both intuitive and accessible."
+        status: "On Hold"
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
+          - Java
+          - Scrum
+          - Azure DevOps
+          - Software Engineering Cycle
+        authors:
+          - Madhushan
+          - Imesh
+          - Ravisha
+      - name: B2B Supply Chain System
         link: https://gohugo.io/
-        status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        image: "/images/portfolio/code.jpg"
+        status: "Finished"
+        description: "Online business to business supply chain trade system built with python backend and relational database."
         tags:
-          - Tag 1
-          - Tag 2
+          - MySQL
+          - Django
+        authors:
+          - Madhushan
+          - Isuri
+          - Kavindu
   # portfolio category
-  - title: Research
-    portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+  # - title: Research
+  #   portfolioitem:
+  #     - name: Project 1
+  #       image: "/images/portfolio/code.jpg"
+  #       description: "This project does not have a link attribute"
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 2
+  #       image: "/images/portfolio/code.jpg"
+  #       link: https://gohugo.io/
+  #       description: "You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio"
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 3
+  #       image: "/images/portfolio/code.jpg"
+  #       link: https://gohugo.io/
+  #       description: "A description"
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
