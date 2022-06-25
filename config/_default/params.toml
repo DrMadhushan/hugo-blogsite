@@ -2,7 +2,8 @@
 title = "I'm Madhushan Ramalingam"
 author = "Madhushan Ramalingam"
 #copyright = "2020-2021"
-description = "Call me Dushan"
+description = "Learn, Apply, Fail, Fix, Improvise\nLife in an agile cycle"
+
 profilePicture = "images/profile.png"
 keywords = "Python, Engineering"
 favicon = "favicons/"
@@ -58,7 +59,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/madhushan-ramalingam"
+url = "https://www.linkedin.com/in/madhushan-ramalingam"
 
 [[socialIcons]]
 icon = "fab fa-github"
@@ -68,17 +69,17 @@ url = "https://github.com/DrMadhushan"
 [[socialIcons]]
 icon = "fab fa-hackerrank"
 title = "Hackerrank"
-url = "https://hackerrank.com/DrMadhushan"
+url = "https://www.hackerrank.com/drmadhushan"
 
 [[socialIcons]]
 icon = "fab fa-twitter"
-title = "Hackerrank"
-url = "https://twitter.com/DrMadhushan"
+title = "Twitter"
+url = "https://twitter.com/madhushan_dr"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/drdushan"
+url = "https://www.instagram.com/drdhushan"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
