@@ -14,26 +14,24 @@ Google form is one of the powerful tool to collect information, conduct survey a
 
 -----
 
-## How to make custom html form interface with Google form as backend
-
 Follow these steps to provide your own frontend interface to your customers and collect the data to a google form response. Let us create a basic event registration form:
 
 1. Create a google form with required fields but without authentication. -I.e. not enabling one response per email account.
-   ![](../../../static/images/blog/googleForm/b1_2.png)
+   ![](/images/blog/googleForm/b1_2.png)
 2. Create your own html form with same fields with any other custom styles.
-   ![](../../../static/images/blog/googleForm/b1_1.png)
+   ![](/images/blog/googleForm/b1_1.png)
 3. Inspect your google form page and search for keyword “entry.” using `ctrl+f` or `cmd+f`.
 4. Copy your action url in the form code and give it as the form action='' attribute.
 5. You will find a set of hidden input fields as well.
-   ![](../../../static/images/blog/googleForm/b1_6.png)
+   ![](/images/blog/googleForm/b1_6.png)
 6. Copy the name attribute of those input fields and include the same in your custom html form like this.
-    ![](../../../static/images/blog/googleForm/b1_8.png)
+    ![](/images/blog/googleForm/b1_8.png)
     Now we have worked upto getting the google form's work done.
 
 7. Now if you fill and register ('submit') your custom html form, you will get the responses in your google form responses. 
-    ![](../../../static/images/blog/googleForm/b1_9.png)
+    ![](/images/blog/googleForm/b1_9.png)
     but, once you submit the page will automaatically opens the google form's after-submission page like this,
 8.  Redirecting to another domain is not a positive thing to your brand. So to overcome this issue you have to create a hidden iframe and load that response page (the one you see in the above image) inside that iframe. Add these lines of code in your form page;
-    ![](../../../static/images/blog/googleForm/b1_10.png)
+    ![](/images/blog/googleForm/b1_10.png)
     Thats it we are done!
     I have added some after-submission properties for the custom html form. So you can provide your customer with a decent custom response after they submit their inputs.
