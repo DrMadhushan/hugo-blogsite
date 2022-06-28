@@ -1,3 +1,5 @@
 /public
 public/
 *.py
+themes
+public
