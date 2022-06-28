@@ -1,12 +1,13 @@
 ---
 title: 'How to make custom html form interface with Google form as backend'
 date: 2021-12-20
-draft: false
+draft: true
 tags:
-  - google form
-  - html page
-  - backend for form
-  - contact form
+  - googleform
+  - htmlpage
+  - backendforform
+  - contactform
+thumbnail: "https://www.technokids.com/blog/wp-content/uploads/2014/12/google-forms.png"
 ---
 
 Google form is one of the powerful tool to collect information, conduct survey and any dumb work you can do with form filling. During this work and learn from home era, almost every organisation has shared at least an online form and everyone of you would have filled at least 5 forms. In your organisation or in your educational institute you would have think about sharing custom forms those are customised with branding, custom URL and funky things. Other than Google Forms there are many e-form tools are available to fulfil such expectations at a considerable cost. You can still use your self served forms to collect data as well. Most of the times you might need to do some backend coding to enable form inputs in your website. What if you can host a form without any backend support but with high information security with very few html lines of code at no cost?
