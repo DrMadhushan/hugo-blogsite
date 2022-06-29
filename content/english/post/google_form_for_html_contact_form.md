@@ -1,7 +1,7 @@
 ---
 title: 'How to make custom html form interface with Google form as backend'
 date: 2021-12-20
-draft: true
+draft: false
 tags:
   - googleform
   - htmlpage
