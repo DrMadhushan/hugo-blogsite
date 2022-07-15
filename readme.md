@@ -8,3 +8,5 @@ build static pages
 
 push the public directory to 
 ```DrMadhushan.github.io -> main```
+
+PATH=$PATH:/usr/local/go/bin
