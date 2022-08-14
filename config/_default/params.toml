@@ -38,8 +38,8 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 # hidesidebar = true
 
 [simpleAnalytics]
-# enable = true
-# customurl = "https://analytics.example.com"
+enable = true
+customurl = "https://drmadhushan.github.com"
 
 [plausibleAnalytics]
 # domain = "example.com"
